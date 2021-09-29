@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **ReactJS and React Native**
 
-- 📝 I regularly upload video with David [https://www.youtube.com/watch?v=pNGJCLPRDWQ&list=PLmewDYeBL3XINJcq8pIsnM0XmDe3xyxdE](https://www.youtube.com/watch?v=pNGJCLPRDWQ&list=PLmewDYeBL3XINJcq8pIsnM0XmDe3xyxdE)
+- 📝 I regularly upload video with David : [https://www.youtube.com/watch?v=pNGJCLPRDWQ&list=PLmewDYeBL3XINJcq8pIsnM0XmDe3xyxdE](https://www.youtube.com/watch?v=pNGJCLPRDWQ&list=PLmewDYeBL3XINJcq8pIsnM0XmDe3xyxdE)
 
 - 📫 How to reach me **ducrocq.matthys@gmail.com**
 
