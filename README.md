@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **ducrocq.matthys@gmail.com**
 
-- You can visit my website : ** matthys.dev **
+- You can visit my website : **Matthys.dev**
 
 
 <h3 align="left">Languages and Tools:</h3>
