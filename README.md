@@ -3,9 +3,11 @@
 
 - 🌱 I’m currently learning **ReactJS and React Native**
 
-- 📝 I regularly upload video with David : </br>[https://www.youtube.com/watch?v=pNGJCLPRDWQ&list=PLmewDYeBL3XINJcq8pIsnM0XmDe3xyxdE](https://www.youtube.com/watch?v=pNGJCLPRDWQ&list=PLmewDYeBL3XINJcq8pIsnM0XmDe3xyxdE)
+- 📝 I regularly upload video with my mentot David on his channel : </br>[https://www.youtube.com/watch?v=pNGJCLPRDWQ&list=PLmewDYeBL3XINJcq8pIsnM0XmDe3xyxdE](https://www.youtube.com/watch?v=pNGJCLPRDWQ&list=PLmewDYeBL3XINJcq8pIsnM0XmDe3xyxdE)
 
 - 📫 How to reach me **ducrocq.matthys@gmail.com**
+
+- You can visit my website : **Matthys.dev**
 
 
 <h3 align="left">Languages and Tools:</h3>
