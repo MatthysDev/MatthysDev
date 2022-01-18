@@ -19,3 +19,7 @@ My contributions :
 - Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatthysDucrocq)](https://github.com/anuraghazra/github-readme-stats)
+
+- Time stats
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MatthysDucrocq)](https://github.com/anuraghazra/github-readme-stats)
