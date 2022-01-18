@@ -10,7 +10,7 @@
 - You can visit my website : **Matthys.dev**
 
 My contributions : 
-<div display="flex-row" style="margin: 5px;">
+<div display="flex-row" style="padding: 5px;">
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatthysDucrocq&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MatthysDucrocq&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 </div>
