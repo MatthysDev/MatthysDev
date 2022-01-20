@@ -12,9 +12,9 @@
 My contributions : 
 
   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatthysDucrocq&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatthysDev&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MatthysDucrocq&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MatthysDev&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
@@ -23,4 +23,4 @@ My contributions :
 
 - Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatthysDucrocq&theme=dracula&hide=php)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatthysDev&theme=dracula&hide=php)](https://github.com/anuraghazra/github-readme-stats)
