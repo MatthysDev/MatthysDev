@@ -6,4 +6,3 @@
 - 📫 You can reach me by email **ducrocq.matthys@gmail.com**
 - 🏠 Or visit my new website [**matthys.dev**](https://matthys.dev/) with new sections !
 
-Happy new year ! 🎆
