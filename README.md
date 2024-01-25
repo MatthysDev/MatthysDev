@@ -5,5 +5,3 @@
 - 📝 With my mentor David, we have a [youtube show about programing, automation and growth hacking](https://bit.ly/office-hours-pirate-yt).
 - 📫 You can reach me by email **ducrocq.matthys@gmail.com**
 - 🏠 Or visit my new website [**matthys.dev**](https://matthys.dev/) with new sections !
-
-currently snowboarding 🏂
