@@ -7,3 +7,5 @@
 - 🏠 Or visit my new website [**matthys.dev**](https://matthys.dev/) with new sections !
 
 https://dear-valentine.vercel.app
+
+<img src="https://github-readme-stats.vercel.app/api?username=MatthysDev&count_private=true&show_icons=true&theme=prussian" width="400">
