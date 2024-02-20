@@ -12,5 +12,5 @@
 
 #### Stats 
 
-| <img src="https://github-readme-stats.vercel.app/api?username=matthysdev&show_icons=true&theme=github_dark" alt="matthysdev" />  | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matthysdev&layout=compact&hide=html&theme=github_dark" alt="matthysdev" /> |
+| <img src="https://github-readme-stats.vercel.app/api?username=matthysdev&show_icons=true&theme=github_dark" alt="matthysdev" />  | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matthysdev&layout=compact&hide=html&theme=github_dark&hide=python" alt="matthysdev" /> |
 | ------------- | ------------- |
