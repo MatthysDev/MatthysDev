@@ -8,4 +8,4 @@
 
 https://dear-valentine.vercel.app
 
-<img src="https://github-readme-stats.vercel.app/api?username=MatthysDev&count_private=true&show_icons=true&theme=github_dark" width="600">
+| <img src="https://github-readme-stats.vercel.app/api?username=matthysdev&show_icons=true&theme=github_dark" alt="matthysdev" />  | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matthysdev&layout=compact&hide=html&theme=github_dark" alt="matthysdev" /> |
