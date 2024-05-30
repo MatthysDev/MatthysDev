@@ -8,7 +8,7 @@
 
 #### First release 🚀
 
-- ❤️ Visit [**dear-valentine**](https://dear-valentine.vercel.app) to send a date invitation to your crush
+- ❤️ Visit [**dear-valentine**](https://dear-valentine.vercel.app) to send a date invitation to your crush ( A website made with next-js,tailwind and supabase ) 
 
 #### Stats 
 
